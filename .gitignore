@@ -1,0 +1,4 @@
+# ver-golang フォルダーの特定ファイルを除外
+ver-golang/*
+!ver-golang/make.go
+!ver-golang/README.md
